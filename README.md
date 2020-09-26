@@ -3,7 +3,7 @@
 [Instacart market basket analysis dataset]( https://drive.google.com/drive/folders/1NYpXda5Zdig1GlJ5KgHg_ys0YLJBXBZR?usp=sharing)
 - **Approach**:
 
-I have tried to find a possible customer segmenetation enabling to classify customers according the their different purchases.Since there are thousands of products in the dataset so I will use Principal Component Analysis to find new dimensions on products of users ,along with clustering will be easier. I will then try to find possible explanations for the identified clusters.
+I have tried to find a possible customer segmenetation enabling to classify customers according the their different purchases.Since there are thousands of products in the dataset so I have used Principal Component Analysis to find new dimensions on products of users ,along with clustering . I have then tried to find possible explanations for the identified clusters.
 
 - **My understanding on features from dataframes**
 

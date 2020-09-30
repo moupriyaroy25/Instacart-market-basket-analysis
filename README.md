@@ -35,3 +35,22 @@ I have tried to find a possible customer segmenetation enabling to classify cust
   - Python API Pyspark
   - Python Packages:
     - numpy, panda , matplotlib , seaborn , sklearn
+    
+## Simple EDA using instacart data
+- **Approach**
+
+In this notebook I've mostly worked focusing on visulization of the datasets. As the datas has several csv files so together it has huge amount of various features. So,I tried simplified the relation between each features throgh explortion(as much as possible for me) and by visualizing through various graphs and charts and tried to reach some simple statement conclusion from each graph/chart.
+
+- **Visualization of Relation Between Features (I tried to find)**
+    - Reorder frquency in a week
+    - Interval between Reorders of Users
+    - Frequency Distribution of Reorders w.r.t time of the day
+    - Frequency distribution of Day of week Vs Hour of day
+    - Most popular 20 products bought by customers (based on product types)
+    - Top 20 popular product (based on product names)
+    - Department wise reorder ratio
+    
+- **Requirments**
+  - Google colabatory Notebook ( RAM : 25 GB)
+  - Python Packages:
+    - numpy, panda , matplotlib , seaborn
